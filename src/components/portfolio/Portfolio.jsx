@@ -1,49 +1,55 @@
 import './portfolio.css'
-import IMG1 from '../../assets/portfolio1.webp'
+import IMG1 from '../../assets/BookStore-buy-books-online.png'
+import IMG2 from '../../assets/Goal-Setter.png'
+import IMG3 from '../../assets/Memories_app_capture.png'
+import IMG4 from '../../assets/Dashboard.png'
+import IMG5 from '../../assets/Bloobloom_screenshot1.png'
+import IMG6 from '../../assets/Webpack-App.png'
+
 
 const Portfolio = () => {
   const data =[
     {
       id:1,
       image:IMG1,
-      title:'my demo',
-      github:"https://github.com",
-      demo:"https://dribbble.com/shots/18408307-Online-courses-dashboard"
+      title:'BookStore',
+      github:"https://github.com/YAHYAOUI-Nabil/bookStore",
+      demo:"https://bookstorenabil.herokuapp.com/"
     },
     {
       id:2,
-      image:IMG1,
-      title:'my demo',
-      github:"https://github.com",
-      demo:"https://dribbble.com/shots/18408307-Online-courses-dashboard"
+      image:IMG2,
+      title:'Goal Setter',
+      github:"https://github.com/YAHYAOUI-Nabil/Set-Goals-App---MERN-STACK",
+      demo:"https://goalsetternabil.herokuapp.com/"
     },
     {
       id:3,
-      image:IMG1,
-      title:'my demo',
-      github:"https://github.com",
-      demo:"https://dribbble.com/shots/18408307-Online-courses-dashboard"
+      image:IMG3,
+      title:'Memories',
+      github:"https://github.com/YAHYAOUI-Nabil/Memories",
+      demo:"https://memoriesappnabil.herokuapp.com/"
     },
     {
       id:4,
-      image:IMG1,
-      title:'my demo',
-      github:"https://github.com",
-      demo:"https://dribbble.com/shots/18408307-Online-courses-dashboard"
+      image:IMG4,
+      title:'Dashboard',
+      github:"https://github.com/YAHYAOUI-Nabil/dashboard",
+      demo:"https://sage-bubblegum-7fa287.netlify.app/"
     },
     {
       id:5,
-      image:IMG1,
-      title:'my demo',
-      github:"https://github.com",
+      image:IMG5,
+      title:'Bloobloom',
+      github:"https://github.com/YAHYAOUI-Nabil/bloobloom-test",
       demo:"https://dribbble.com/shots/18408307-Online-courses-dashboard"
     },
     {
       id:6,
-      image:IMG1,
-      title:'my demo',
-      github:"https://github.com",
-      demo:"https://dribbble.com/shots/18408307-Online-courses-dashboard"
+      image:IMG6,
+      title:'Webpack',
+      github:"https://github.com/YAHYAOUI-Nabil/webpack",
+      demo:"https://webpack.js.org/"
     }
   ]
   

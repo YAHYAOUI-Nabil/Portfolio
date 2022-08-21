@@ -37,8 +37,12 @@ const About = () => {
           </div>
 
           <p>
-            Nabil yahyaoui jhfsshf jsfh ksfhnsn jsfsjbn jslqdl jsfh 
-            hksfh getz ppoiozr hjshgjfs hjsfjhsf gjfsjgsf gfs
+          I'm a web developer who's passionate about finding quick solutions to problems. 
+          I work well in team settings, and I have a history of being able to troubleshoot 
+          programming challenges easily in collaborative work. Using programs like HTML, CSS, 
+          Javascript and Node.js I have build projects that app services and desktop sites still use today. 
+          I meet continuous high standards for web design and development, and hope to continue doing so 
+          in a full stack developer position.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>

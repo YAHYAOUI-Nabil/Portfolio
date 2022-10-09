@@ -22,7 +22,7 @@
 ## 2. Installation <a name="heading--2"/>
 
 ```
-git clone https://github.com/YAHYAOUI-Nabil/Memories.git
+git clone https://github.com/YAHYAOUI-Nabil/Portfolio.git
 npm install
 npm start
 ```
